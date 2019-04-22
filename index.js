@@ -142,7 +142,7 @@ const init = async() => {
 }
 
 init()
-
+//comment
 app.listen(3000, (err) => {
     if(err){
         console.log('Não foi possível iniciar o servidor.')
